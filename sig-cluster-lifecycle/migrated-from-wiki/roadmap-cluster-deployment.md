@@ -153,7 +153,7 @@ Easy to use and opinionated. Potentially highly optimized. Acceptable for produc
 Examples:
 * [Kube-AWS](https://github.com/coreos/coreos-kubernetes/tree/master/multi-node/aws)
 * [kops](https://github.com/kubernetes/kops)
-* [Kargo](https://github.com/kubespray/kargo)
+* [kubespray](https://github.com/kubespray/kargo)
   * (is https://git.k8s.io/contrib/ansible still needed?)
 * [kompose8](https://github.com/digitalrebar/kompos8)
 * [Tectonic](https://tectonic.com/)
